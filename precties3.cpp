@@ -18,6 +18,5 @@ cin>>r;
 i=p*t*r/100;
 
 cout<<"simple intrest is :"<<i;
-
     return 0;
 }
