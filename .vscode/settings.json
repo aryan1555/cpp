@@ -59,6 +59,7 @@
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
     "iostream": "cpp",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "SWAPPING.C": "cpp"
   }
 }
