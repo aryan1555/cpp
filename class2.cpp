@@ -26,6 +26,10 @@ class student {
     void showdata (){
         cout<<"adno :"<<adno<<endl;
         cout<<"sname :"<<sname<<endl;
+        cout<<"eng :"<<eng<<endl;
+        cout<<"maths:"<<maths<<endl;
+        cout<<"sci :"<<sci<<endl;
+        
         cout<<"total :"<<ctotal(eng,maths,sci);
     }
 };
