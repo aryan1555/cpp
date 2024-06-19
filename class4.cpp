@@ -1,15 +1,14 @@
 #include<iostream>
-using namespace std ;
+using namespace std;
 class test {
 
     private :
     int testcode,nocandidate,centerreqd;
-
     string description;
 
 
     public :
-    void schedule()
+    void readdata ()
     {
         cout<<"enter the testcode  : ";
         cin>>testcode;
@@ -19,7 +18,7 @@ class test {
         cin>>nocandidate;
         centerreqd = calcntr();
     };
-    void disptest()
+    void showdata ()
     {
         cout<<"testcode"<<testcode<<endl;
         cout<<"nocandidate "<<nocandidate<<endl;
