@@ -60,6 +60,7 @@
   "files.associations": {
     "iostream": "cpp",
     "stdio.h": "c",
-    "SWAPPING.C": "cpp"
+    "SWAPPING.C": "cpp",
+    "ostream": "cpp"
   }
 }
