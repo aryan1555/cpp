@@ -38,7 +38,7 @@ int main (){
     cout<<"secon object"<<endl;
     s2.desplay ();
     cout<<"final output"<<endl;
-    0
+
     s3=s1/s2;
     s3.desplay();
     return 0;
